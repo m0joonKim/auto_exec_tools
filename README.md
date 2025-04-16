@@ -68,7 +68,7 @@ make clean
 ./auto_exec.sh ../success/{exec_file} {input_num} {time_limit}
 ```
 
-예시 ch07의 1번 문제를 3개의 input과, 0.5초 시간제한으로 채점한다면:
+예시) ch07의 1번 문제를 3개의 input과, 0.5초 시간제한으로 채점한다면:
 
 ```bash
 ./auto_exec.sh ../success/*_07_01 3 0.5
